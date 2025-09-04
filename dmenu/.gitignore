@@ -1,8 +1,4 @@
 *.o
-dmenu_run
-stest
-dmenu_path
-dmenu
 *.orig
 *.trig
 
