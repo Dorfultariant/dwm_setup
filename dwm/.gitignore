@@ -9,7 +9,7 @@ patches/
 
 
 # Used config
-config.h
+#config.h
 
 
 # Patch related:

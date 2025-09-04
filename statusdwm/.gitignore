@@ -4,7 +4,7 @@
 patches/
 
 # Current config
-config.h
+# config.h
 
 # Patch related
 *.trig
