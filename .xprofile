@@ -1,0 +1,12 @@
+
+## Applications to run 
+
+
+DISPLAY=:0 /usr/bin/feh --bg-scale ~/Pictures/wp/there-is-no-place-like-localhost-f9-2560x1440.jpg &
+
+/usr/bin/discord &
+
+/usr/bin/redshift -l 60.19:24.95 -t 6400:3200 &
+
+
+
