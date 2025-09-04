@@ -1,0 +1,17 @@
+# Executables
+
+# Dirs
+patches/
+
+# Current config
+config.h
+
+# Patch related
+*.trig
+*.orig
+
+# Bins
+*.o
+
+
+

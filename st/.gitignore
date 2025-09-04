@@ -1,0 +1,16 @@
+# Executables
+st
+st-autocomplete
+
+# Dirs
+patches/
+
+# Current config
+config.h
+
+# Patch related
+*.trig
+*.orig
+
+# Bins
+*.o

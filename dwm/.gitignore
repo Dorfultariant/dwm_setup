@@ -1,0 +1,20 @@
+# Executables:
+dwm
+
+# Dirs:
+patches/
+
+# Objs:
+*.o
+
+
+# Used config
+config.h
+
+
+# Patch related:
+*.trig
+*.orig
+
+
+
